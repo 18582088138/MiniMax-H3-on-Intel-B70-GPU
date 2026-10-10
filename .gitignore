@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.download-env/
+.env
+artifacts/
+workflows/
+downloads/
+models/
+h3-data/
+llm-scaler/
+*.safetensors
+*.mp4
+*.log
+model_sha256.txt
